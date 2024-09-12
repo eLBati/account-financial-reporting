@@ -1,4 +1,4 @@
-- Lorenzo Battistini \<<lorenzo.battistini@agilebg.com>\>
+- Lorenzo Battistini
 - Giovanni Capalbo \<<giovanni@therp.nl>\>
 - Tecnativa - Antonio Espinosa
 - Tecnativa - Pedro M. Baeza
